@@ -1,0 +1,41 @@
+.hero{
+    background-image: url(./Rectangle\ 48.jpg);
+    background-repeat: no-repeat;
+}
+
+.order{
+    background-image: url(./Rectangle\ 47.jpg);
+    background-repeat: no-repeat;
+}
+
+section{
+    padding: 160px 0;
+}
+
+body{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+ul,p,h1,h2,h3{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+
+h2{
+    margin-bottom: 50px;
+}
