@@ -1,11 +1,15 @@
 .hero{
     background-image: url(./Rectangle\ 48.jpg);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .order{
     background-image: url(./Rectangle\ 47.jpg);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 section{
@@ -35,13 +39,10 @@ ul,p,h1,h2,h3{
 h2{
     line-height: 57px;
     font-size: 46px;
+    margin-bottom: 50px;
 }
 
 ul{
     text-decoration: none;
     list-style: none;
-}
-
-h2{
-    margin-bottom: 50px;
 }
